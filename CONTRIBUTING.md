@@ -6,7 +6,7 @@ For an overview of features and usage consult the README file at the root of the
 
 ## Issues
 
-If you identify and issue, please first search of the issue already exists, and provide further clarifications on that where possible. If the related issue doesn't exist, then please open one and provide as much information as possible.
+If you identify an issue, please check if the issue already exists and provide further clarifications on the related issue where possible. If the related issue doesn't exist, then please open one and provide as much information as possible.
 
 ## Contributing to an Issue
 
